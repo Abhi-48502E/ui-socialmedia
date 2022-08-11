@@ -1,0 +1,20 @@
+.searchbox-main{
+    height: 40px;
+    margin-top: 10px;
+    width: 300px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-color: grey;
+    outline: none;
+    padding-left: 10px;
+}
+.btn-searchz{
+    height: 40px;
+    width: 100px;
+    margin-left: 10px;
+    background: transparent;
+    outline: none;
+    background-color:#4dda4d;
+    border: 1px;
+    caret-color: transparent;
+}
